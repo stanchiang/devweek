@@ -1,0 +1,10 @@
+import pandas as pd
+
+
+data=pd.read_csv("testData.csv")
+
+
+new_data=data[data['is_valid']==False]
+
+
+new_data.to_csv("false.csv")
