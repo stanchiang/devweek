@@ -1,0 +1,231 @@
+,ip,user_agent,referer
+1,66.249.64.120,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322) Sleipnir/2.48,http://mail.ru
+2,180.76.5.171,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.21) Gecko/20090403 MultiZilla/1.8.3.4e SeaMonkey/1.1.16,nan
+3,180.76.5.148,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:24.0) Gecko/20100101 Firefox/24.0 SeaMonkey/2.21 Lightning/2.6b3,http://ask.com
+4,66.249.64.120,Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1b3pre) Gecko/20090109 Shiretoko/3.1b3pre,http://youtube.com
+5,180.76.5.148,Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.8.1.12) Gecko/20080201 SeaMonkey/1.1.8,http://yahoo.co.jp
+6,180.76.5.148,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/528.16 (KHTML, like Gecko) Shiira Safari/125",http://bing.com
+7,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 6.1; hu; rv:1.9.1.18) Gecko/20110320 SeaMonkey/2.0.13,http://google.co.uk
+8,23.94.79.86,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.19) Gecko/20081221 SeaMonkey/1.1.14,nan
+9,180.76.5.148,Mozilla/5.0 (X11; U; Linux x86_64; ru-RU; rv:1.8.1.16) Gecko/20080716 Fedora/1.1.11-1.fc9 SeaMonkey/1.1.11,http://yahoo.com
+10,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1b4pre) Gecko/20090311 Shiretoko/3.1b4pre,http://twitter.com
+11,217.160.81.2,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/125.5.7 (KHTML, like Gecko) SunriseBrowser/0.895",nan
+12,66.249.64.120,Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.8.1.2) Gecko/20070303 SeaMonkey/1.1.1,http://tmall.com
+13,180.76.5.148,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727) Sleipnir/2.6.0,http://google.co.jp
+14,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8.1.21) Gecko/20090303 SeaMonkey/1.1.15,http://google.co.in
+15,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 6.0; de-AT; rv:1.8.1.18) Gecko/20081031 SeaMonkey/1.1.13,http://sina.com.cn
+16,217.160.80.2,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.2; .NET CLR 2.0.50727; Sleipnir/2.9.2),nan
+17,66.249.64.35,Mozilla/5.0 (Windows NT 5.0; rv:1.9.1.19) Gecko/20110420 Firefox/3.6 SeaMonkey/2.0.14,nan
+18,66.249.64.120,Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.13) Gecko/20080313 SeaMonkey/1.1.9,http://hao123.com
+19,180.76.5.148,Mozilla/5.0 (X11; U; Linux i686; nb-NO; rv:1.9.1.16) Gecko/20110420 SeaMonkey/2.0.14,http://google.co.uk
+20,180.76.5.171,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Sleipnir/2.9.4),nan
+21,66.249.64.120,Mozilla/5.0 (Windows NT 5.0; rv:5.0) Gecko/20110706 Firefox/5.0 SeaMonkey/2.2,http://hao123.com
+22,12.233.108.228,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.18) Gecko/20081031 SeaMonkey/1.1.13,nan
+23,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.11) Gecko/20071128 SeaMonkey/1.1.7 Mnenhy/0.7.5.666,http://mail.ru
+24,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.21) Gecko/20090403 SeaMonkey/1.1.16 Mnenhy/0.7.5.0,http://instagram.com
+25,141.8.224.239,Mozilla/5.0 (X11; Linux x86_64; rv:13.0) Gecko/20120604 Firefox/13.0 SeaMonkey/2.10,nan
+26,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 6.1; de; rv:1.9.1.19) Gecko/20110420 SeaMonkey/2.0.14,http://wikipedia.org
+27,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.22) Gecko/20090605 SeaMonkey/1.1.17 Mnenhy/0.7.6.0,http://mail.ru
+28,211.36.159.183,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Sleipnir/2.8.5),nan
+29,180.76.5.148,Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.8.0.9) Gecko/20061211 SeaMonkey/1.0.7,http://youtube.com
+30,43.225.149.49,Mozilla/5.0 (X11; Linux x86_64; rv:2.0.1) Gecko/20110609 Firefox/4.0.1 SeaMonkey/2.1,nan
+31,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.18) Gecko/20081113 Fedora/1.1.13-1.fc8 SeaMonkey/1.1.13,http://ask.com
+32,180.76.5.148,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; InfoPath.1) Sleipnir/2.5.17,http://bing.com
+33,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.21) Gecko/20090403 SeaMonkey/1.1.16 Mnenhy/0.7.5.0,http://mail.ru
+34,66.249.64.120,Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.11) Gecko/20100720 Fedora/2.0.6-1.fc12 SeaMonkey/2.0.6,http://weibo.com
+35,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1) Gecko/20090701 Linux Mint/7 (Gloria) Shiretoko/3.5,http://google.co.in
+36,180.76.5.148,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; Media Center PC 3.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322) Sleipnir/2.30,http://mail.ru
+37,12.233.108.228,Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.9a1) Gecko/20060707 SeaMonkey/1.5a,nan
+38,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.14) Gecko/20100930 SeaMonkey/2.0.9,http://tmall.com
+39,66.249.64.117,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727) Sleipnir/2.41,nan
+40,141.8.224.239,Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.17) Gecko/20080922 SUSE/1.1.12-0.1 SeaMonkey/1.1.12,nan
+41,66.249.64.120,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; Sleipnir/2.8.5),http://google.co.in
+42,180.76.5.148,Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9.1.17) Gecko/20110123 SeaMonkey/2.0.12,http://sohu.com
+43,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1b3pre) Gecko/20081221 Shiretoko/3.1b3pre,http://taobao.com
+44,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.2; en-CA; rv:1.9.1.11pre) Gecko/20100629 SeaMonkey/2.0.6pre,http://mail.ru
+45,66.249.64.120,Mozilla/5.0 (X11; Linux i686; rv:2.0b13pre) Gecko/20110321 SeaMonkey/2.1b3pre,http://amazon.com
+46,66.249.64.120,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SV1; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618; Sleipnir/2.8.5),nan
+47,217.160.83.2,Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1b3pre) Gecko/20081208 SeaMonkey/2.0,nan
+48,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.5pre) Gecko/20091016 Shiretoko/3.5.5pre GTB6,http://blogspot.com
+49,180.76.5.171,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20120826 Firefox/15.0 SeaMonkey/2.12,nan
+50,180.76.5.148,Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20110608 Firefox/4.0.1 SeaMonkey/2.1,http://google.co.in
+51,180.76.5.148,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.14eol) Gecko/20101004 Red Hat/1.0.9-64.el4 SeaMonkey/1.0.9,http://google.co.jp
+52,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.10) Gecko/20070306 SeaMonkey/1.0.8,http://ebay.com
+53,66.249.64.121,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070802 Firefox/2.0.0.11 SeaMonkey/1.1.8,nan
+54,217.160.83.168,Mozilla/5.0 (Windows; U; Windows NT 5.2; en-CA; rv:1.9.1.11pre) Gecko/20100629 SeaMonkey/2.0.6pre,nan
+55,180.76.5.148,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; TheWorld),http://mail.ru
+56,66.249.64.120,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727; Sleipnir/2.9.2),http://google.co.in
+57,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; pl-PL; rv:1.9a1) Gecko/20060812 SeaMonkey/1.5a,http://yahoo.co.jp
+58,217.160.81.2,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.7) Gecko/20060910 SeaMonkey/1.0.5,nan
+59,180.76.5.171,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_5; ja-jp) AppleWebKit/525.18 (KHTML, like Gecko) Sunrise/1.7.5 like Safari/5525.20.1",nan
+60,180.76.5.148,Mozilla/5.0 (X11; OpenBSD amd64; rv:24.0) Gecko/20100101 Firefox/24.0 SeaMonkey/2.21,http://google.com
+61,141.8.224.239,Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.8.1.6) Gecko/20070802 SeaMonkey/1.1.4,nan
+62,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.19) Gecko/20081221 SeaMonkey/1.1.14,http://facebook.com
+63,66.249.64.121,Mozilla/5.0 (Windows NT 5.2; rv:7.0a1) Gecko/20110524 SeaMonkey/2.2a1pre,nan
+64,180.76.5.147,Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.9.1.11) Gecko/20100701 SeaMonkey/2.0.6,nan
+65,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.18) Gecko/20081113 SeaMonkey/1.1.13,http://google.co.jp
+66,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.7) Gecko/20060910 MultiZilla/1.7.9.0a SeaMonkey/1.0.5,http://google.co.in
+67,43.225.149.49,Mozilla/5.0 (Windows; U; Windows NT 5.1; PL; rv:1.8.1.13) Gecko/20080313 SeaMonkey/1.1.9,nan
+68,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.2; en-CA; rv:1.9.1.11pre) Gecko/20100623 SeaMonkey/2.0.6pre,http://tmall.com
+69,66.249.64.120,Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.11) Gecko/20100714 SUSE/2.0.6-2.1 SeaMonkey/2.0.6,http://google.co.jp
+70,180.76.5.148,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; SlimBrowser),http://mail.ru
+71,211.36.159.183,Mozilla/5.0 (X11; Linux i686; rv:2.0b7pre) Gecko/20101008 Firefox/4.0b7pre SeaMonkey/2.1b1,nan
+72,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.18) Gecko/20081031 SeaMonkey/1.1.13,http://mail.ru
+73,123.125.71.60,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8b4) Gecko/20050910 SeaMonkey/1.0a,nan
+74,66.249.64.120,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/528.1 (KHTML, like Gecko) Version/4.0 Safari/528.1 Stainless/0.1",http://google.co.in
+75,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.17) Gecko/20080829 SeaMonkey/1.1.12 (Ubuntu-1.1.12+nobinonly-0ubuntu1),http://mail.ru
+76,43.225.149.49,Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.1.19) Gecko/20110420 SeaMonkey/2.0.14,nan
+77,180.76.5.148,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.9) Gecko/2009042318 Firefox/3.0.9 Wyzo/3.0.3,http://mail.ru
+78,66.249.64.120,Mozilla/5.0 (X11; U; Linux ia64; de; rv:1.9.1.18) Gecko/20110331 Lightning/1.0b2pre SeaMonkey/2.0.13,http://google.co.in
+79,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.2; de; rv:1.9.1.16) Gecko/20101123 SeaMonkey/2.0.11,http://hao123.com
+80,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.1.18) Gecko/20110320 SeaMonkey/2.0.13,http://facebook.com
+81,66.249.64.120,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; Sleipnir/2.9.2),http://yandex.ru
+82,66.249.64.35,Mozilla/5.0 (Windows; U; Windows NT 5.1; de-DE; rv:1.8.1.23) Gecko/20090825 SeaMonkey/1.1.18,nan
+83,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.0; de-AT; rv:1.8.0.8) Gecko/20061030 SeaMonkey/1.0.6,http://mail.ru
+84,66.249.64.120,Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.8.1.22) Gecko/20090605 SeaMonkey/1.1.17,http://qq.com
+85,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.11) Gecko/20071128 SeaMonkey/1.1.7 Mnenhy/0.7.5.666,http://twitter.com
+86,180.76.5.148,Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.9.1.19) Gecko/20110420 SeaMonkey/2.0.14,http://mail.ru
+87,180.76.5.148,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; TheWorld),http://tumblr.com
+88,101.226.33.237,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X; fr) AppleWebKit/523.12.2 (KHTML, like Gecko) Sunrise/1.6.0 like Safari/523.12.2",nan
+89,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.8.1.19) Gecko/20081204 SeaMonkey/1.1.14,http://qq.com
+90,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.1; fr-FR; rv:1.8.1.2pre) Gecko/20070111 SeaMonkey/1.1,http://facebook.com
+91,207.46.13.137,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/417.9 (KHTML, like Gecko, Safari) Shiira/1.1",nan
+92,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.21) Gecko/20090303 SeaMonkey/1.1.15,http://bing.com
+93,217.160.82.168,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.22) Gecko/20090708 SeaMonkey/1.1.17,nan
+94,66.249.64.120,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; TheWorld),http://yahoo.co.jp
+95,180.76.5.148,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.2; .NET CLR 2.0.50727; Sleipnir/2.9.2),http://aliexpress.com
+96,66.249.64.120,Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.21) Gecko/20090328 Fedora/1.1.15-3.fc10 SeaMonkey/1.1.15,http://google.co.in
+97,66.249.64.120,Sundance(Compatible; Windows; U; en-US;) Version/0.9.0.34,http://sohu.com
+98,66.249.64.117,Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.1.19) Gecko/20110420 SeaMonkey/2.0.14,nan
+99,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.13) Gecko/20100914 Mnenhy/0.8.3 SeaMonkey/2.0.8,http://google.co.in
+100,43.225.149.49,Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.8.0.6) Gecko/20060729 SeaMonkey/1.0.4,nan
+101,217.160.81.173,Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.11) Gecko/20100720 Fedora/2.0.6-1.fc12 SeaMonkey/2.0.6,nan
+102,180.76.5.148,Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.8.1.24) Gecko/20100228 SeaMonkey/1.1.19,http://mail.ru
+103,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.1.7) Gecko/20100104 SeaMonkey/2.0.2,http://adcash.com
+104,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9.1.18) Gecko/20110320 SeaMonkey/2.0.13,http://wordpress.com
+105,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; de-AT; rv:1.8.1.15) Gecko/20080621 SeaMonkey/1.1.10,http://google.co.jp
+106,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.1.18) Gecko/20110320 SeaMonkey/2.0.13,http://taobao.com
+107,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.12) Gecko/20080201 SeaMonkey/1.1.8,http://tmall.com
+108,180.76.5.148,Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.2) Gecko/20070221 SeaMonkey/1.1.1,nan
+109,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; it-IT; rv:1.8.1.22) Gecko/20090605 SeaMonkey/1.1.17,http://google.co.in
+110,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.9.1.9) Gecko/20100317 Firefox/3.5.9 Seamonkey/2.0.4,http://instagram.com
+111,43.225.149.49,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts-AskJeevesJapan; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) Sleipnir/2.8.4,nan
+112,43.225.149.49,Mozilla/5.0 (X11; U; Linux x86_64; fr-FR; rv:1.8.1.4) Gecko/20070528 SeaMonkey/1.1.2,nan
+113,180.76.5.148,Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.8.1.19) Gecko/20081204 SeaMonkey/1.1.14,http://vk.com
+114,43.225.149.49,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET CLR 1.1.4322; Tablet PC 2.0; TheWorld),nan
+115,180.76.5.148,Mozilla/5.0 (Windows NT 5.2; rv:2.0b8pre) Gecko/20101028 SeaMonkey/2.1b2pre,http://youtube.com
+116,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1b3pre) Gecko/20090121 Shiretoko/3.1b3pre,http://google.co.in
+117,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.22) Gecko/20090708 SeaMonkey/1.1.17,http://msn.com
+118,66.249.64.120,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; QQPinyin 686; QQDownload 661; GTB6.6; TencentTraveler 4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506),http://yahoo.com
+119,180.76.5.148,Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.2) Gecko/20070221 SeaMonkey/1.1.1,http://mail.ru
+120,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.2) Gecko/20090803 Ubuntu/9.04 (jaunty) Shiretoko/3.5.2 FirePHP/0.3,http://google.co.in
+121,180.76.5.148,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648) Sleipnir/2.8.0,http://blogspot.com
+122,180.76.5.148,Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.8.1.13) Gecko/20080313 SeaMonkey/1.1.9,http://mail.ru
+123,66.249.64.120,Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.8.1.2pre) Gecko/20070111 SeaMonkey/1.1,http://yandex.ru
+124,180.76.5.148,Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.8.0.1) Gecko/20060130 SeaMonkey/1.0,http://mail.ru
+125,180.76.5.148,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1b3pre) Gecko/20090106 Shiretoko/3.1b3pre,http://baidu.com
+126,43.225.149.49,Mozilla/5.0 (Windows; U; WinNT3.51; en-US; rv:1.8.1.8) Gecko/20071009 SeaMonkey/1.1.5,nan
+127,180.76.5.148,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.19) Gecko/20110429 Gentoo/2.0.14 SeaMonkey/2.0.14,http://google.co.uk
+128,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; de-AT; rv:1.8.1.5) Gecko/20070716 SeaMonkey/1.1.3,http://baidu.com
+129,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.13) Gecko/20100914 Mnenhy/0.8.3 SeaMonkey/2.0.8,http://tmall.com
+130,66.249.64.121,Mozilla/5.0 (Windows; U; Windows NT 9.0; en-US; rv:1.9.1.11) Gecko/20100701 SeaMonkey/2.0.6,nan
+131,217.160.83.2,Mozilla/5.0 (OS/2; U; Warp 4.5; en-US; rv:1.8.1.3pre) Gecko/20070307 SeaMonkey/1.1.1+,nan
+132,141.8.224.239,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; AskTbFXTV5/5.9.1.14019; TheWorld),nan
+133,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1b3pre) Gecko/20081203 Shiretoko/3.1b3pre,http://google.co.in
+134,180.76.5.148,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618; FDM; Sleipnir/2.8.5),http://mail.ru
+135,217.160.80.2,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/525.13 (KHTML, like Gecko) Shiira Safari/125",nan
+136,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.1.7) Gecko/20100104 Firefox/3.5.8 (SeaMonkey/2.0.2),nan
+137,201.147.132.57,Surf/0.4.1 (X11; U; Unix; en-US) AppleWebKit/531.2+ Compatible (Safari; MSIE 9.0),nan
+138,12.233.108.228,Mozilla/5.0 (X11; Linux i686; rv:2.0b9pre) Gecko/20101230 SeaMonkey/2.1b2pre,nan
+139,12.233.108.228,Mozilla/5.0 (Windows NT 5.1; rv:16.0) Gecko/20121007 SeaMonkey/2.13,nan
+140,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.1.18) Gecko/20110320 SeaMonkey/2.0.13,http://mail.ru
+141,180.76.5.148,Mozilla/5.0 (Windows NT 5.1; rv:26.0) Gecko/20100101 Firefox/26.0 SeaMonkey/2.23a1,http://mail.ru
+142,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1b3pre) Gecko/20081207 Shiretoko/3.1b3pre,http://facebook.com
+143,66.249.64.98,Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.8.0.7) Gecko/20060910 SeaMonkey/1.0.5,nan
+144,180.76.5.148,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownload 661; GTB6.6; TencentTraveler 4.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),http://yahoo.com
+145,66.249.64.120,Mozilla/5.0 (X11; U; Linux ia64; de; rv:1.9.1.19) Gecko/20110429 Lightning/1.0b2pre SeaMonkey/2.0.14,http://tmall.com
+146,94.243.220.76,Mozilla/5.0 (X11; U; Linux ia64; de; rv:1.9.1.18) Gecko/20110331 Lightning/1.0b2pre SeaMonkey/2.0.13,nan
+147,180.76.5.148,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; Media Center PC 5.0) Sleipnir/2.7.2,http://google.de
+148,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; nb-NO; rv:1.9.1.10) Gecko/20100623 Fedora/2.0.5-1.fc12 Fedora SeaMonkey/2.0.3,http://taobao.com
+149,180.76.5.148,Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.9pre) Gecko/20100212 SeaMonkey/2.0.4pre,http://google.co.in
+150,217.160.81.173,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.19) Gecko/20110429 Gentoo/2.0.14 SeaMonkey/2.0.14,nan
+151,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.0; de-AT; rv:1.8.1.21) Gecko/20090303 SeaMonkey/1.1.15 Mnenhy/0.7.6.0,http://mail.ru
+152,66.249.64.120,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; User-agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1); .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) Sleipnir/2.8.4,http://linkedin.com
+153,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1b3pre) Gecko/20081212 Shiretoko/3.1b3pre,http://taobao.com
+154,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; de-DE; rv:1.9.1.16) Gecko/20101124 SUSE/2.0.11-2.2 SeaMonkey/2.0.11,http://linkedin.com
+155,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.15) Gecko/20080621 SeaMonkey/1.1.10,http://mail.ru
+156,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.9.2a1pre) Gecko/20081228 SeaMonkey/2.0a3pre,http://ebay.com
+157,66.249.64.43,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727) Sleipnir/2.6.0,nan
+158,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.2; en-CA; rv:1.9.1.11pre) Gecko/20100629 SeaMonkey/2.0.6pre,http://sohu.com
+159,66.249.64.120,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; MathPlayer 2.10d; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; OfficeLiveConnector.1.3; OfficeLivePatch.1.3; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET CLR 1.1.4322) Sleipnir/2.8.4,http://google.co.jp
+160,66.249.64.120,Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.8.1) Gecko/20061101 SeaMonkey/1.1b,http://baidu.com
+161,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.2; de-AT; rv:1.8.1.16) Gecko/20080702 SeaMonkey/1.1.11,http://google.co.in
+162,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.2; en-CA; rv:1.9.1.11pre) Gecko/20100622 SeaMonkey/2.0.6pre,http://adcash.com
+163,66.249.64.120,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; Media Center PC 3.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322) Sleipnir/2.30,http://mail.ru
+164,66.249.64.120,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.18) Gecko/20081030 SeaMonkey/1.1.13 (Ubuntu-1.1.13+nobinonly-0ubuntu1),http://mail.ru
+165,66.249.64.120,Mozilla/5.0 (Windows NT 5.1; rv:7.0a1) Gecko/20110619 Firefox/7.0a1 SeaMonkey/2.4a1,http://msn.com
+166,211.36.159.183,Mozilla/5.0 (Windows; U; Windows NT 5.2; en-CA; rv:1.9.1.11pre) Gecko/20100630 SeaMonkey/2.0.6pre,nan
+167,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.2) Gecko/20070222 SeaMonkey/1.1.1,http://aliexpress.com
+168,66.249.64.120,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_11; en) AppleWebKit/525.18 (KHTML, like Gecko) Sunrise/1.7.4 like Safari/4525.22",http://google.co.in
+169,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1b5pre) Gecko/20090428 SeaMonkey/2.0b1pre,http://yahoo.co.jp
+170,217.160.80.173,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.1b3pre) Gecko/20090223 SeaMonkey/2.0a3,nan
+171,180.76.5.171,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30) Sleipnir/2.6.0,nan
+172,180.76.5.148,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.6) Gecko/20060803 SeaMonkey/1.0.4,http://google.de
+173,180.76.5.148,Mozilla/5.0 (Windows NT 5.1; rv:7.0a1) Gecko/20110612 Firefox/7.0a1 SeaMonkey/2.4a1,http://amazon.com
+174,43.225.149.49,Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.8.1.4) Gecko/20070509 SeaMonkey/1.1.2,nan
+175,180.76.5.171,"Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR) AppleWebKit/533.3 (KHTML, like Gecko) WeltweitimnetzBrowser/0.25 Safari/533.3",nan
+176,180.76.5.171,Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8.1.4) Gecko/20070509 SeaMonkey/1.1.2,nan
+177,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.1; nl; rv:1.9.1.13) Gecko/20100914 Lightning/1.0b1 SeaMonkey/2.0.8,http://instagram.com
+178,207.46.13.137,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.2; .NET CLR 2.0.50727; Sleipnir/2.9.2),nan
+179,43.225.149.49,Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.0.8) Gecko/20061109 SeaMonkey/1.0.6,nan
+180,66.249.64.120,Mozilla/5.0(Compatible; Windows; U; en-US;) Sundance/0.9.0.33,http://baidu.com
+181,180.76.5.148,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.17) Gecko/20110123 SeaMonkey/2.0.12,http://yahoo.co.jp
+182,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1b4pre) Gecko/20090413 Shiretoko/3.5b4pre,http://facebook.com
+183,180.76.5.148,Mozilla/5.0 (Windows NT 5.2; rv:6.0a1) Gecko/20110512 SeaMonkey/2.2a1pre,http://ask.com
+184,12.233.108.228,Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8.0.6) Gecko/20060729 SeaMonkey/1.0.4,nan
+185,180.76.5.171,Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.8.1.16) Gecko/20080702 SeaMonkey/1.1.11,nan
+186,43.225.149.49,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.19) Gecko/20081221 SeaMonkey/1.1.14,nan
+187,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.6) Gecko/20100121 Firefox/3.5.6 Wyzo/3.5.6.1,http://mail.ru
+188,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; de-AT; rv:1.8.1.5) Gecko/20070716 SeaMonkey/1.1.3,http://google.co.uk
+189,180.76.5.171,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.6) Gecko/20100121 Firefox/3.5.6 Wyzo/3.5.6,nan
+190,66.249.64.120,Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20121011 Firefox/16.0 SeaMonkey/2.13.1 Lightning/1.8,http://google.co.in
+191,180.76.5.148,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:16.0) Gecko/20121011 Firefox/16.0 SeaMonkey/2.13.1,http://tmall.com
+192,66.249.64.120,Mozilla/5.0 (X11; U; Linux x86_64; fr; rv:1.9.1.16) Gecko/20101206 Lightning/1.0b1 SeaMonkey/2.0.11,http://yandex.ru
+193,66.249.64.120,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; InfoPath.1; TheWorld),http://baidu.com
+194,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.0; de; rv:1.9.1.10) Gecko/20100504 SeaMonkey/2.0.5,http://mail.ru
+195,66.249.64.120,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X; fr) AppleWebKit/523.12.2 (KHTML, like Gecko) Sunrise/1.6.0 like Safari/523.12.2",http://google.co.in
+196,66.249.64.120,Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.1pre) Gecko/20090701 Ubuntu/9.04 (jaunty) Shiretoko/3.5,http://google.co.in
+197,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 6.1; hu; rv:1.9.1.18) Gecko/20110320 SeaMonkey/2.0.13,http://yandex.ru
+198,217.160.83.2,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.9) Gecko/2009042410 Firefox/3.0.9 Wyzo/3.0.3,nan
+199,66.249.64.120,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419 (KHTML, like Gecko) Shiira/1.2.2 Safari/125",http://weibo.com
+200,180.76.5.147,Mozilla/5.0 (X11; U; Linux i686; fr-FR; rv:1.8.0.8) Gecko/20061029 SeaMonkey/1.0.6,nan
+201,66.249.64.120,Mozilla/5.0 (Windows NT 5.1; rv:16.0) Gecko/20121007 Firefox/16.0 SeaMonkey/2.13,http://google.com
+202,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.18) Gecko/20110320 SeaMonkey/2.0.13,http://aliexpress.com
+203,66.249.64.120,Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.8.0.8) Gecko/20061030 SeaMonkey/1.0.6,http://ask.com
+204,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.1; de-AT; rv:1.8.1.5) Gecko/20070716 SeaMonkey/1.1.3,http://google.co.in
+205,66.249.64.120,Mozilla/5.0 (Windows NT 5.2; rv:7.0a1) Gecko/20110607 SeaMonkey/2.4a1,http://sohu.com
+206,211.36.159.183,Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.9.1.16) Gecko/20101123 SeaMonkey/2.0.11,nan
+207,180.76.5.148,Sundance/0.9x(Compatible; Windows; U; en-US;)Version/0.9x,http://google.co.in
+208,217.160.82.2,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; Sleipnir/2.9.7),nan
+209,180.76.5.148,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1b4pre) Gecko/20090405 SeaMonkey/2.0b1pre,http://wikipedia.org
+210,180.76.5.148,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648) Sleipnir/2.7.0,http://sohu.com
+211,66.249.64.120,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; TencentTraveler 4.0; (R1 1.5); .NET CLR 2.0.50727),http://pinterest.com
+212,180.76.5.148,Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.17) Gecko/20080829 SeaMonkey/1.1.12 (Ubuntu-1.1.12+nobinonly-0ubuntu1),nan
+213,180.76.5.148,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; WOW64; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022) Sleipnir/2.8.4,http://google.co.jp
+214,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9a1) Gecko/20060906 SeaMonkey/1.5a,http://sohu.com
+215,66.249.64.120,Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20100101 Firefox/21.0 SeaMonkey/2.18a1,http://tumblr.com
+216,180.76.5.148,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; Sleipnir/2.8.5),http://bing.com
+217,66.249.64.120,Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8.1.4) Gecko/20070509 SeaMonkey/1.1.2,http://tumblr.com
+218,66.249.64.120,Mozilla/5.0 (Windows NT 5.2; rv:6.0a1) Gecko/20110512 SeaMonkey/2.2a1pre,http://qq.com
+219,151.250.164.109,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.22) Gecko/20090605 SeaMonkey/1.1.17 Firefox/3.0.10,nan
+220,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.1.19) Gecko/20110420 SeaMonkey/2.0.14,http://mail.ru
+221,180.76.5.148,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/419.3 (KHTML, like Gecko) Shiira Safari/125",http://amazon.com
+222,66.249.64.120,Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.9.1.6) Gecko/20091210 SUSE/2.0.1-1.1.1 SeaMonkey/2.0.1,http://google.de
+223,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.18) Gecko/20110320 SeaMonkey/2.0.13,http://mail.ru
+224,66.249.64.120,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727; Sleipnir/2.9.2),http://msn.com
+225,94.243.220.76,w3m/0.5.2 (Linux i686; en; Debian-3.0.6-3),nan
+226,180.76.5.171,Mozilla/5.0 (Windows; U; Windows NT 5.0; fr-FR; rv:1.8.1.12) Gecko/20080201 SeaMonkey/1.1.8,nan
+227,141.8.224.239,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1b2) Gecko/20060821 SeaMonkey/1.1a,nan
+228,180.76.5.148,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.18) Gecko/20081031 SeaMonkey/1.1.13,http://aliexpress.com
+229,180.76.5.148,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1b3pre) Gecko/20081202 SeaMonkey/2.0a2,http://baidu.com
+230,180.76.5.171,Mozilla/5.0 (Windows; U; Windows NT 5.1; de-AT; rv:1.8.1.17) Gecko/20080829 SeaMonkey/1.1.12,nan
